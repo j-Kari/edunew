@@ -14,7 +14,7 @@ struct ThirdView: View {
                 Text("For more information, go to menstrualhygieneday.org.")
                     .padding()
                     .foregroundColor(Color("Color"))
-                Image("MHD")
+                Image("mhd")
                     .resizable()
                     .scaledToFit()
                     .padding()

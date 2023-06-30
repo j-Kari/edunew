@@ -14,7 +14,7 @@ struct SecondView: View {
                 Text("For more information, go to periodactionday.com.")
                     .padding()
                     .foregroundColor(Color("Color"))
-                Image("PAD")
+                Image("pad")
                     .resizable()
                     .scaledToFit()
                     .padding()
