@@ -15,6 +15,9 @@
 		498B48952A4DFEA300DC8F98 /* EducationView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498B48942A4DFEA300DC8F98 /* EducationView2.swift */; };
 		9F5E4B8F2A4F183600421376 /* organ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5E4B8E2A4F183600421376 /* organ.swift */; };
 		9F5E4B912A4F187E00421376 /* Details.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5E4B902A4F187E00421376 /* Details.swift */; };
+		9F5E4B932A4F251400421376 /* Events.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5E4B922A4F251400421376 /* Events.swift */; };
+		9F5E4B952A4F253B00421376 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5E4B942A4F253B00421376 /* SecondView.swift */; };
+		9F5E4B992A4F257400421376 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5E4B982A4F257400421376 /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,9 @@
 		498B48942A4DFEA300DC8F98 /* EducationView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationView2.swift; sourceTree = "<group>"; };
 		9F5E4B8E2A4F183600421376 /* organ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = organ.swift; sourceTree = "<group>"; };
 		9F5E4B902A4F187E00421376 /* Details.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Details.swift; sourceTree = "<group>"; };
+		9F5E4B922A4F251400421376 /* Events.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Events.swift; sourceTree = "<group>"; };
+		9F5E4B942A4F253B00421376 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		9F5E4B982A4F257400421376 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +71,9 @@
 				498B48942A4DFEA300DC8F98 /* EducationView2.swift */,
 				9F5E4B8E2A4F183600421376 /* organ.swift */,
 				9F5E4B902A4F187E00421376 /* Details.swift */,
+				9F5E4B922A4F251400421376 /* Events.swift */,
+				9F5E4B942A4F253B00421376 /* SecondView.swift */,
+				9F5E4B982A4F257400421376 /* ThirdView.swift */,
 				498B48882A4DC8F000DC8F98 /* Assets.xcassets */,
 				498B488A2A4DC8F000DC8F98 /* Preview Content */,
 			);
@@ -151,8 +160,11 @@
 			files = (
 				9F5E4B8F2A4F183600421376 /* organ.swift in Sources */,
 				498B48952A4DFEA300DC8F98 /* EducationView2.swift in Sources */,
+				9F5E4B952A4F253B00421376 /* SecondView.swift in Sources */,
 				9F5E4B912A4F187E00421376 /* Details.swift in Sources */,
 				498B48932A4DEFB100DC8F98 /* EducationView.swift in Sources */,
+				9F5E4B992A4F257400421376 /* ThirdView.swift in Sources */,
+				9F5E4B932A4F251400421376 /* Events.swift in Sources */,
 				498B48872A4DC8EF00DC8F98 /* ContentView.swift in Sources */,
 				498B48852A4DC8EF00DC8F98 /* eduApp.swift in Sources */,
 			);

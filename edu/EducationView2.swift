@@ -51,6 +51,12 @@ struct EducationView2: View {
                             .fontWeight(.bold)
                             .foregroundColor(Color ("Color 2"))
                     }
+                    
+                    NavigationLink(destination: EventsView()) {
+                        Text("Events")
+                            .fontWeight(.bold)
+                            .foregroundColor(Color ("Color 2"))
+                    }
                 }
                 }
                 .navigationTitle("Home")
