@@ -54,6 +54,13 @@ struct EducationView: View {
                         .foregroundColor(Color ("Color 2"))
                     
                 }
+                
+                NavigationLink(destination: OrganView()) {
+                    Text("Organizations")
+                        .fontWeight(.bold)
+                        .foregroundColor(Color ("Color 2"))
+                }
+                
             }
             }
             .navigationTitle("Home")
