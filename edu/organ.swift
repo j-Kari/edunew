@@ -67,7 +67,6 @@ struct OrganView: View {
     
     @State private var singleSelection: UUID?
     
-    
     var body: some View {
             NavigationView {
                 List(selection: $singleSelection) {
