@@ -10,7 +10,7 @@ import SwiftUI
 struct EducationView: View {
     
     @State private var textTitle = "“Meeting the hygiene needs of all adolescent girls is a fundamental issue of human rights, dignity, and public health,” Sanjay Wijesekera, former UNICEF Chief of Water, Sanitation, and Hygiene, said. Inadequate menstrual hygiene is not a unique problem women in the US face. It affects populations in the developed and developing world, and women living in poverty are especially vulnerable."
-    @State private var name = "3 Key Things to Know!"
+    @State private var name = "3 Key Things to Know"
     
     var body: some View {
         NavigationStack {
